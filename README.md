@@ -7,7 +7,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Azure / Cloud Cybersecurity Projects </b>
-  - [Live SOC / Honeynet in Azure](https://github.com/esteban-flores)
+  - [Live SOC / Honeynet in Azure](https://github.com/esteban-flores/Azure-SOC-Honey-Net/)
 
 
 
