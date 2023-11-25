@@ -9,10 +9,28 @@
 - <b>Azure / Cloud Cybersecurity Projects </b>
   - [Live SOC / Honeynet in Azure](https://github.com/esteban-flores/Azure-SOC-Honey-Net/)
 
+<!--               
+  - Active Directory on local VMs
+
+  - Qualys Community Edition (Vulnerability Management)
+
+  - So you want to be a SOC Analyst? (Eric Capuano) Complete Lab
+
+  - Splunk (SIEM)
+
+  - JIRA Lab (Ticketing)
+
+  - Powershell (Scripts)
+
+  - Bash (Scripts)
+
+  - Python (automation related)
+-->
 
 
 - 🔭 I’m currently working on more videos for the YouTube channel. The channel is going to primarily focus on tutorials on how to implement and secure self hosted programs at home. You could turn your home into a SOC, Cloud, and Home Automation. 
-- 🌱 I’m currently learning/earning the CySA+ and CCNA. I'm studying the CySA+ videos from <a href="https://youtube.com/playlist?list=PLMYSjEaGLw_vGxGsAIUgmkbEm52QR02tx">Certify Breakfast</a>
+- 🌱 I’m currently learning about vulnerability management. I'm learning <a href="https://www.qualys.com"> Qualys</a> and <a href="https://www.splunk.com/">Splunk</a>.
+<!-- I'm studying the CySA+ videos from <a href="https://youtube.com/playlist?list=PLMYSjEaGLw_vGxGsAIUgmkbEm52QR02tx">Certify Breakfast</a> -->
 - ⚡ Fun fact: I'm incredibly lucky to be alive.
 
 <!--
