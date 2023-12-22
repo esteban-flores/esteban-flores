@@ -9,7 +9,9 @@
 - <b>Azure / Cloud Cybersecurity Projects </b>
   - [Live SOC / Honeynet in Azure](https://github.com/esteban-flores/Azure-SOC-Honey-Net/)
 
-<!--               
+<!--
+  - Cybersecurity Vocabulary (Look over it one time, at least)
+
   - Active Directory on local VMs
 
   - Qualys Community Edition (Vulnerability Management)
